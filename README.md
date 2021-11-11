@@ -1,1 +1,1 @@
-# dubbo-demo-service-consumer
+# dubbo-demo
