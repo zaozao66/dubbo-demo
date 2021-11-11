@@ -1,1 +1,1 @@
-# demoLook-dubbo-firstDemo-service-consumer
+# dubbo-demo-service-consumer
